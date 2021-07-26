@@ -1,9 +1,7 @@
 ---
 layout: post
 categories: Blazor
-date: 2021-07-26 16:00:00 +0800
 title: "[Blazor]テキストボックスの変更イベントを入力中に起こす"
-permalink: /:slug
 ---
 
 ## [Blazor]テキストボックスの変更イベントを入力中に起こす
