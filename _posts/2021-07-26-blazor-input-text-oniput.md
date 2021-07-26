@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /:slug
 categories: Blazor
 title: "[Blazor]テキストボックスの変更イベントを入力中に起こす"
 ---
