@@ -1,4 +1,5 @@
 ---
+layout: post
 categories: Blazor
 date: 2021-07-26 16:00:00 +0800
 ---
