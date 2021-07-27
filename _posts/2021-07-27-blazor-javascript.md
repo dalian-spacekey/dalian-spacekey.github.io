@@ -5,6 +5,8 @@ categories: Blazor
 title: "[Blazor]JavaScriptコードを呼び出す"
 ---
 
+## [Blazor]JavaScriptコードを呼び出す
+
 IJSRuntimeをinjectして、InvokeVoidAsyncやInvokeAsyncで実行する。
 
 Local storageや、IndexedDBなどの機能を使うときは必須になってくるし、UIを実装するときはこなれたライブラリを使ったほうが効率が良いと思う。
