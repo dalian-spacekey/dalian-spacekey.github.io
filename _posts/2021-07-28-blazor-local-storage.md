@@ -3,6 +3,7 @@ layout: post
 permalink: /:slug
 categories: Blazor
 title: "[Blazor]LocalStorageにデータを保存する"
+description: "IJSRuntimeで、localStorage.setItemやlocalStorage.getItemを使う。"
 ---
 
 ## [Blazor]LocalStorageにデータを保存する

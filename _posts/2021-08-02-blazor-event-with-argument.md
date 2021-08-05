@@ -3,6 +3,7 @@ layout: post
 permalink: /:slug
 categories: Blazor
 title: "[Blazor]イベントのメソッド呼び出しに引数を渡す"
+description: "lambda式で呼出しコード自体を渡す。"
 ---
 
 ## [Blazor]イベントのメソッド呼び出しに引数を渡す

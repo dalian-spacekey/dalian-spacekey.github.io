@@ -3,6 +3,7 @@ layout: post
 permalink: /:slug
 categories: Blazor
 title: "[Blazor]JavaScriptコードを呼び出す"
+description: "IJSRuntimeをinjectして、InvokeVoidAsyncやInvokeAsyncで実行する。"
 ---
 
 ## [Blazor]JavaScriptコードを呼び出す
