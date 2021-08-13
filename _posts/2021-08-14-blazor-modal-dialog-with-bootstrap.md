@@ -89,12 +89,12 @@ Hide時のDelayは、ダイアログのfadeが終わるのを待ってるだけ�
     <button 
         type="button" 
         class="btn btn-primary" 
-        @onclick="() => Confirmation.ShowDialog()">ShowDialog</button>
+        @onclick="() => confirmation.ShowDialog()">ShowDialog</button>
     Result : @result;
 </div>
 
 <ConfirmDialog 
-    @ref="Confirmation" 
+    @ref="confirmation" 
     Title = "Confirm"
     Message = "Are you OK?"
     OKButtonCaption="Yes"
@@ -104,8 +104,7 @@ Hide時のDelayは、ダイアログのfadeが終わるのを待ってるだけ�
 
 @code {
     private bool result;
-
-    protected ConfirmDialog Confirmation { get; set; }
+    private ConfirmDialog confirmation;
 
     private void ActionSelected(bool dialogResult)
     {
