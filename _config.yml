@@ -2,6 +2,7 @@ title: spacekey.dev
 google_analytics: UA-201413849-1
 future: false
 timezone: Asia/Tokyo
+favicon: /assets/favicon.ico
 
 defaults:
   - scope:
