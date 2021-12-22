@@ -28,7 +28,7 @@ App.razor
 
 @code
 {
-    private void OnNavigateAsync(NavigationContext navigationContext)
+    private async Task OnNavigateAsync(NavigationContext navigationContext)
     {
         // ここでなにかする
         // どこに行こうとしてるかはnavigationContext.Pathに入ってる
